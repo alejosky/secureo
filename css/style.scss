@@ -1,0 +1,12 @@
+html {
+  font-size: 14px;
+}
+
+.product {
+  &-cell {
+    border: 1px solid #ddd;
+    margin: 1em 0;
+    padding: 1em;
+    cursor: pointer;
+  }
+}
